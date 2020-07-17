@@ -1,0 +1,11 @@
+C:\Users\FURUYA\AppData\Local\Temporary Projects\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\FURUYA\Documents\Visual Studio 2012\Projects\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\FURUYA\Documents\Visual Studio 2012\Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\FURUYA\Documents\Visual Studio 2012\Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\FURUYA\Documents\Visual Studio 2012\Projects\calculadora\calculadora\bin\Debug\calculadora.xml
+C:\Users\FURUYA\Documents\Visual Studio 2012\Projects\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\FURUYA\Documents\Visual Studio 2012\Projects\calculadora\calculadora\obj\Debug\calculadora.Resources.resources
+C:\Users\FURUYA\Documents\Visual Studio 2012\Projects\calculadora\calculadora\obj\Debug\calculadora.vbproj.GenerateResource.Cache
+C:\Users\FURUYA\Documents\Visual Studio 2012\Projects\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\FURUYA\Documents\Visual Studio 2012\Projects\calculadora\calculadora\obj\Debug\calculadora.xml
+C:\Users\FURUYA\Documents\Visual Studio 2012\Projects\calculadora\calculadora\obj\Debug\calculadora.pdb
